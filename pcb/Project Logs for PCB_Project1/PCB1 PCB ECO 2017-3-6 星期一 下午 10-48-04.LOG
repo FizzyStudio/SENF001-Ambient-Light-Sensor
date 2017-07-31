@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Added Component: Designator=V1(Via)
+Added Component: Designator=V2(Via)
+Change Net Name : Old Net Name=Net*1_2 New Net Name=NetJ1_2
+Added Member To Class: ClassName=Sheet1 Member=Component V1 Via
+Added Member To Class: ClassName=Sheet1 Member=Component V2 Via
+Added Room: Name=Sheet1

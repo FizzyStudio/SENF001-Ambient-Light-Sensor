@@ -1,0 +1,22 @@
+Added Component: Designator=*1(sh-2.0)
+Added Component: Designator=C1(0402)
+Added Component: Designator=Q1(Q)
+Added Component: Designator=R1(0402)
+Added Component: Designator=R2(0402)
+Added Pin To Net: NetName=VCC Pin=*1-1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=GND Pin=*1-3
+Added Pin To Net: NetName=GND Pin=*1-3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Pin To Net: NetName=Net*1_2 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Member To Class: ClassName=Sheet1 Member=Component *1 sh-2.0
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 Photo NPN
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 470
+Added Room: Name=Sheet1
